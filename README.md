@@ -1,2 +1,1 @@
-# socml-2017
-https://sites.google.com/view/socml/registration
+# [socml-2017](https://sites.google.com/view/socml/registration)
